@@ -1,11 +1,11 @@
-# 🗄️ Analyse SQL — Orange Burkina Faso
+#  Analyse SQL  Orange Burkina Faso
 
 Projet d'analyse de données réalisé avec **SQL** et **Python**,
 simulant le travail d'un data analyst junior dans un opérateur télécom burkinabè.
 
 ---
 
-## 🎯 Objectif
+##  Objectif
 
 Analyser une base de données relationnelle d'abonnés fictifs d'Orange Burkina Faso
 pour produire des insights business actionnables :
@@ -18,7 +18,7 @@ pour produire des insights business actionnables :
 
 ---
 
-## 🗂️ Structure du projet
+##  Structure du projet
 
 ```
 sql-orange-burkina-analysis/
@@ -40,7 +40,7 @@ sql-orange-burkina-analysis/
 
 ---
 
-## 🛠️ Compétences SQL démontrées
+## Compétences SQL démontrées
 
 | Concept | Détail |
 |---|---|
@@ -55,7 +55,7 @@ sql-orange-burkina-analysis/
 
 ---
 
-## 📁 Description de la base de données
+##  Description de la base de données
 
 ### Table `abonnes`
 | Colonne | Type | Description |
@@ -99,7 +99,7 @@ sql-orange-burkina-analysis/
 
 ---
 
-## 🚀 Comment exécuter le projet
+##  Comment exécuter le projet
 
 ### Prérequis
 ```
@@ -115,26 +115,26 @@ cd sql-orange-burkina-analysis
 pip install pandas
 ```
 
-### Étape 1 — Créer la base de données
+### Étape 1 - Créer la base de données
 ```bash
 cd data
 python setup_database.py
 ```
 
-### Étape 2 — Lancer l'analyse complète
+### Étape 2 - Lancer l'analyse complète
 ```bash
 cd ..
 python analyse_complete.py
 ```
 
-### Étape 3 — Explorer les scripts SQL
+### Étape 3 - Explorer les scripts SQL
 Ouvre les fichiers dans le dossier `scripts/` avec
 **DB Browser for SQLite** (téléchargeable sur [sqlitebrowser.org](https://sqlitebrowser.org))
 ou exécute-les directement depuis Python avec `pd.read_sql()`.
 
 ---
 
-## 📈 Résultats principaux
+##  Résultats principaux
 
 ### Segmentation des abonnés actifs
 | Segment | Critère | Abonnés |
@@ -154,7 +154,7 @@ ou exécute-les directement depuis Python avec `pd.read_sql()`.
 
 ---
 
-## 💡 Insights clés
+##  Insights clés
 
 1. **Ouaga domine** — 8 abonnés, solde total le plus élevé
    → Concentrer l'acquisition et l'upselling sur Ouaga
@@ -173,19 +173,19 @@ ou exécute-les directement depuis Python avec `pd.read_sql()`.
 
 ---
 
-## 👤 Auteur
+##  Auteur
 
 **Franck SAWADOGO**
-Étudiant GEI — IST Ouagadougou
-En formation Data Analytics — Python · SQL · Power BI
+Étudiant GEI  -IST Ouagadougou
+En formation Data Analytics - Python · SQL · Power BI
 Objectif : Data Analyst junior dans le secteur télécom au Burkina Faso
 
 🔗 [GitHub](https://github.com/FranckSAWADOGO099)
-🔗 [LinkedIn](https://www.linkedin.com/in/franck-sawadogo)
+🔗 [LinkedIn](https://www.linkedin.com/in/franck-marie-ghislain-sawadogo-28420041a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
-## 📚 Technologies utilisées
+## Technologies utilisées
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![SQLite](https://img.shields.io/badge/SQLite-3-lightblue)
