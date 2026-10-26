@@ -141,5 +141,5 @@ cursor.executemany("""
 conn.commit()
 conn.close()
 
-print("✅ Base de données créée : orange_burkina.db")
+print("Base de données créée : orange_burkina.db")
 print("Tables : abonnes (20 lignes), forfaits (4), transactions (19), reclamations (7)")
