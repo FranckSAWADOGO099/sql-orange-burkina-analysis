@@ -1,4 +1,4 @@
-# 📊 Insights & Recommandations — Orange Burkina Faso
+# Insights & Recommandations - Orange Burkina Faso
 
 ## Résumé exécutif
 
@@ -21,7 +21,7 @@ sous-requêtes → manipulation des données.
 
 ---
 
-## Insight 1 — Ouagadougou domine le marché
+## Insight 1 - Ouagadougou domine le marché
 
 Ouaga concentre 8 abonnés sur 20 et le solde total le plus élevé
 de toutes les villes. Les abonnés de Ouaga ont en moyenne
@@ -32,7 +32,7 @@ et d'upselling sur Ouagadougou avant d'étendre aux autres villes.
 
 ---
 
-## Insight 2 — 25% d'abonnés inactifs
+## Insight 2 - 25% d'abonnés inactifs
 
 5 abonnés sur 20 sont inactifs. Ils ont tous un solde très faible
 (proche de 0) et une ancienneté courte (moins de 6 mois).
@@ -43,11 +43,11 @@ de moins de 6 mois d'ancienneté.
 
 ---
 
-## Insight 3 — Corrélation appels / data
+## Insight 3 - Corrélation appels / data
 
 Les abonnés avec les forfaits les plus élevés (Max 10Go, Max 20Go)
 appellent plus et consomment plus de data. Ce ne sont pas
-deux comportements indépendants — ils reflètent l'engagement
+deux comportements indépendants - ils reflètent l'engagement
 global de l'abonné.
 
 **Recommandation :** Créer des offres combinées appels + data
@@ -55,7 +55,7 @@ pour encourager les abonnés Orange Liberté à monter en gamme.
 
 ---
 
-## Insight 4 — Orange Money concentré chez les Premium
+## Insight 4 - Orange Money concentré chez les Premium
 
 Les abonnés Orange Max 20Go et Max 10Go génèrent 80%
 du volume total des transactions Orange Money malgré
@@ -67,7 +67,7 @@ afin d'élargir la base d'utilisateurs actifs.
 
 ---
 
-## Insight 5 — Réclamations concentrées chez les inactifs
+## Insight 5 - Réclamations concentrées chez les inactifs
 
 La majorité des réclamations non résolues concernent
 des abonnés inactifs avec des problèmes de réseau
