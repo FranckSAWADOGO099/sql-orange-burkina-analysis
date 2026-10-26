@@ -1,4 +1,4 @@
-#  Analyse SQL  Orange Burkina Faso
+#  Analyse SQL - Orange Burkina Faso
 
 Projet d'analyse de données réalisé avec **SQL** et **Python**,
 simulant le travail d'un data analyst junior dans un opérateur télécom burkinabè.
